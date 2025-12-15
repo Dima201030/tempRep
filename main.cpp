@@ -66,7 +66,7 @@ int main() {
     cout << "Hello and this New futer!" << endl;
     cout << "Futer is secsesfuld!" << endl;
 
-    cout << "Hello Long!" << endl;
+    cout << "Hello git push origin --delete devLong!" << endl;
 
 
 
