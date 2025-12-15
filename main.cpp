@@ -65,7 +65,7 @@ int main() {
 
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
+    cout << "Hello Longit push origin --delete devg!" << endl;
 
 
 
