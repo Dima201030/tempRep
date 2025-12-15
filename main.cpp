@@ -60,9 +60,8 @@ int main() {
 
     cout << "Hello World!" << endl;
 
-    cout << "Hello Word!" << endl;
 
-    cout << "Hello World!" << endl;
+    cout << "Hello Long!" << endl;
 
 
     cout << "Hello World!" << endl;
