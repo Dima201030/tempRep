@@ -60,11 +60,9 @@ int main() {
 
     cout << "Hello World!" << endl;
 
-cout << "Hello Long!" << endl;
+    cout << "Hello Long!" << endl;
 
 
-cout << "Hello Long!" << endl;
-cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
@@ -72,6 +70,17 @@ cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
+    cout << "Hello Long!" << endl;
+    cout << "Hello Long!" << endl;
+
+
+    cout << "Hello and this New futer!" << endl;
+    cout << "Futer is secsesfuld!" << endl;
+
+    cout << "Hello Long!" << endl;
+
+
+
 
     cout << "Hello World!" << endl;
     cout << "Hello World!" << endl;
