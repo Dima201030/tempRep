@@ -66,12 +66,9 @@ int main() {
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
     cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
-    cout << "Hello Long!" << endl;
+
+
+
 
 
     cout << "Hello and this New futer!" << endl;
